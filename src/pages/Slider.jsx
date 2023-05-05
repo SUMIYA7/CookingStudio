@@ -21,7 +21,7 @@ const Slider = () => {
               data-bs-interval="5000"
             >
               <img
-                src="https://prod-media.kidadl.com/modern_kitchen_chefs_8b4299fe23.jpg"
+                src="https://plus.unsplash.com/premium_photo-1663852297514-2211cfb8ae9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
                 className="d-block w-100"
                 alt="..."
               />
