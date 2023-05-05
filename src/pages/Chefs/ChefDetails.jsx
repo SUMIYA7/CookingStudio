@@ -34,15 +34,15 @@ const ChefDetails = () => {
     return (
       <Container className="mb-5 pb-5">
         <Card className="bg-transparent text-white" style={{ border: "none" }}>
-          <Card.Img src="https://images.unsplash.com/photo-1499125562588-29fb8a56b5d5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60" />
+          <Card.Img src="https://media.istockphoto.com/id/1336317090/photo/thanksgiving-greeting-card-background-or-festive-dinner-invitation-template.jpg?b=1&s=170667a&w=0&k=20&c=esKzy1tFZy8Hv5rp6WzMZmcwe7G61i2xfQFW-4K2Vys=" />
           <Card.ImgOverlay
             className="text-center"
             style={{ marginTop: "200px", textShadow: "4px 4px 8px #000000" }}
           >
             <div className="text-center mt-5">
-              <h1>OUR PRIDE</h1>
-              <h6>Experience & Commitment</h6>
-              <small>Complete atmosphere about career recipe passion</small>
+              <h1>Delicious Delights</h1>
+              <h6>All About Professionals</h6>
+              <small>A Perfect Guideline For Cooking</small>
             </div>
           </Card.ImgOverlay>
         </Card>
