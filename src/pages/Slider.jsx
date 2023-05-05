@@ -21,7 +21,7 @@ const Slider = () => {
               data-bs-interval="5000"
             >
               <img
-                src="https://plus.unsplash.com/premium_photo-1663852297514-2211cfb8ae9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Zm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+                src="https://media.istockphoto.com/id/1131005373/photo/kitchen-fresh-colorful-organic-vegetables-on-worktop.jpg?b=1&s=170667a&w=0&k=20&c=KJcuv2TDctVZNn6NbR6WqMY_Jgv0az-xtB55A8zKGx4="
                 className="d-block w-100"
                 alt="..."
               />
