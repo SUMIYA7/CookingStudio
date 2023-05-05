@@ -21,7 +21,7 @@ const Slider = () => {
               data-bs-interval="5000"
             >
               <img
-                src="https://images.unsplash.com/photo-1534604973900-c43ab4c2e0ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1388&q=80"
+                src="https://media.istockphoto.com/id/1295633127/photo/grilled-chicken-meat-and-fresh-vegetable-salad-of-tomato-avocado-lettuce-and-spinach-healthy.jpg?b=1&s=170667a&w=0&k=20&c=28UZDQVkSbPg3-SX4s0jWARo0F7j2EC8zrvQHuh8WnU="
                 className="d-block w-100"
                 alt="..."
               />
@@ -39,7 +39,7 @@ const Slider = () => {
             </div>
             <div className="carousel-item banners" data-bs-interval="2000">
               <img
-                src="https://images.unsplash.com/photo-1558985212-92c2ff0b56e7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80a"
+                src="https://media.istockphoto.com/id/1081422898/photo/pan-fried-duck.jpg?b=1&s=170667a&w=0&k=20&c=RRljEgn_wsgIq_9bHcX1pJi6E842KKxr82xzftiDe8I="
                 className="d-block w-100"
                 alt="..."
               />
@@ -57,7 +57,7 @@ const Slider = () => {
             </div>
             <div className="carousel-item banners">
               <img
-                src="https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+                src="https://media.istockphoto.com/id/516329534/photo/last-straw.jpg?b=1&s=170667a&w=0&k=20&c=MXDxXhIbuwyhkwui1h8qsuPoG63YuCq_pBCjegE0P3c="
                 className="d-block w-100"
                 alt="..."
               />

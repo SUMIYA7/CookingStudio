@@ -11,11 +11,9 @@ const Footer = () => {
         style={{position:"fixed", bottom: "0", width: "100%" }}
       >
         <Container>
-          <h6>Copyrights © 2023 Cuisine Chronicles.</h6>
           <small>
             {" "}
-            All Rights Reserved. Created by Al Mahmud Sarker. Privacy Policy |
-            Terms of Use | Contact Us
+            All Rights Reserved By CookingStudio
           </small>
         </Container>
       </Navbar>

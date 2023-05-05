@@ -25,7 +25,7 @@ const Header = () => {
         <Navbar.Brand href="/">
           CookingStudio
           <br />
-          <small className="fw-light">Indian Cooking Studio</small>
+          <small className="fw-light">Indian Delicious Cuisine</small>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

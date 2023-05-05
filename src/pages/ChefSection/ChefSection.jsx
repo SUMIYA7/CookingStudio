@@ -8,7 +8,7 @@ const ChefSection = () => {
   const [chefs, setChefs] = useState([]);
 
   useEffect(() => {
-    fetch("https://assignment-10-server-almahmudsarker.vercel.app/chefs")
+    fetch("https://assignment-10-server-pi-three.vercel.app/chefs")
       .then((res) => res.json())
       .then((data) => setChefs(data))
       .catch((error) => console.log(error));
