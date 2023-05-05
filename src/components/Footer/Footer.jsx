@@ -13,7 +13,7 @@ const Footer = () => {
         <Container>
           <small>
             {" "}
-            All Rights Reserved By CookingStudio
+            All Rights Reserved By CookingStudio || Contact Us On Our Hotline - +91 22 1234 5678
           </small>
         </Container>
       </Navbar>
