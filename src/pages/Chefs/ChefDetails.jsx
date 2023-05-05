@@ -54,11 +54,11 @@ const ChefDetails = () => {
         >
           <Card.Img
             className="rounded-circle w-25 mx-auto"
-            src="https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/h1-team-member-1.jpg"
+            src="https://fdstatic.foodfood.com/odd/images/Awy4hBMasterchef-Sanjeev-Kapoor.jpg"
             alt="Card image"
           />
           <Card.Body className="text-center">
-            <Card.Title>MASON ROBINSON</Card.Title>
+            <Card.Title>Sanjeev Kapoor</Card.Title>
             <Card.Subtitle className="mt-4 mb-4 text-muted text-align-center">
               <span>
                 <FaWatchmanMonitoring className="me-2" />
@@ -74,12 +74,7 @@ const ChefDetails = () => {
               </span>
             </Card.Subtitle>
             <Card.Text className="mb-4">
-              Lorem ipsum dolor sit amet, consectetur a elit. In ut ullamcorper
-              leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis
-              leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis
-              leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis
-              leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis
-              leo, eget euismod orci. Cum sociis natoque penatibus et magnis dis
+            Sanjeev Kapooor is a  renowned chef with over 10 years of experience in the culinary arts. He has cooked up over 500 delicious recipes and has received over 10,000 likes for his creations.
             </Card.Text>
             <div className="mt-4">
               <FaFacebookF className="me-3" />

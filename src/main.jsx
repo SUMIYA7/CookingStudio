@@ -52,7 +52,7 @@ const router = createBrowserRouter([
             <ChefDetails></ChefDetails>
           </PrivateRoute>
         ),
-        loader: ({params}) => fetch(`https://assignment-10-server-pi-three.vercel.app/chefs/${params.id}`)
+        loader: ({params}) => fetch(`https://assignment-10-server-sumiya7.vercel.app/chefs/${params.id}`)
       },
       {
         path: "/favourite",
