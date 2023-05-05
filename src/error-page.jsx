@@ -22,7 +22,7 @@ export default function ErrorPage() {
         speed={100}
       >
         <p>
-          Sorry, an unexpected error has occurred.
+          Sorry, There is an unexpected error occurred.
           <i>{error.statusText || error.message}</i>
         </p>
       </Marquee>
