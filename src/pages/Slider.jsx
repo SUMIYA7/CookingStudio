@@ -21,19 +21,17 @@ const Slider = () => {
               data-bs-interval="5000"
             >
               <img
-                src="https://media.istockphoto.com/id/1295633127/photo/grilled-chicken-meat-and-fresh-vegetable-salad-of-tomato-avocado-lettuce-and-spinach-healthy.jpg?b=1&s=170667a&w=0&k=20&c=28UZDQVkSbPg3-SX4s0jWARo0F7j2EC8zrvQHuh8WnU="
+                src="https://prod-media.kidadl.com/modern_kitchen_chefs_8b4299fe23.jpg"
                 className="d-block w-100"
                 alt="..."
               />
               <div className="overlaying">
-                <h1>Experience the Joy of Cooking with Our Expert Chefs</h1>
+                <h1>Here you can find any Indian Delicious Cuisine Recipie</h1>
                 <p className="fw-normal">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                  pulvinar nibh vel nisi pharetra, a fringilla dui tincidunt.
+                Cooking is not just about the recipe, it's about the ingredients, the techniques, and the heart.
                 </p>
                 <small>
-                  "Cooking is like love, it should be entered into with abandon
-                  or not at all." - Harriet Van Horne
+                "A Recipie Has No Soul Until You Cook It" - Julia Child
                 </small>
               </div>
             </div>
@@ -46,8 +44,7 @@ const Slider = () => {
               <div className="overlaying">
                 <h1>Experience the Joy of Cooking with Our Expert Chefs</h1>
                 <p className="fw-normal">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                  pulvinar nibh vel nisi pharetra, a fringilla dui tincidunt.
+                Cooking is not just about the recipe, it's about the ingredients, the techniques, and the heart.
                 </p>
                 <small>
                   "Cooking is like love, it should be entered into with abandon
@@ -62,14 +59,12 @@ const Slider = () => {
                 alt="..."
               />
               <div className="overlaying">
-                <h1>Experience the Joy of Cooking with Our Expert Chefs</h1>
+                <h1>Enjoy our Indian Delicious Dishes More</h1>
                 <p className="fw-normal">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
-                  pulvinar nibh vel nisi pharetra, a fringilla dui tincidunt.
+                Cooking is not just about the recipe, it's about the ingredients, the techniques, and the heart.
                 </p>
                 <small>
-                  "Cooking is like love, it should be entered into with abandon
-                  or not at all." - Harriet Van Horne
+                  "A Recipie Has No Soul Until You Cook It" - Julia Child
                 </small>
               </div>
             </div>
