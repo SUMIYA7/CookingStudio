@@ -56,11 +56,11 @@ const Section = () => {
           </div>
         </Container>
           <Marquee className='mb-5 pb-5'>
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNZANp487JBaiJ77-Osd_Btzv801p74cJl3IuQ0Ihzy9h2Du8ODYMhaWt4Wz_ntdVNVIg&usqp=CAU" />
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiMp0QHmzTDZpN58wWOxUalwZYbFtwrNTSOQ&usqp=CAU" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf6wzlJTAXvATb40mfYTBjTgjMyRXkn-XNMA&usqp=CAU" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRilt98FeCF7nWcp0JcHjap17gqavU2CFHi8Q&usqp=CAU" />
             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJfxIkyFk3EmAikxkCWGdT1i7wfB913dH0fw&usqp=CAU" />
-            <img src="https://gourmand.qodeinteractive.com/wp-content/uploads/2018/02/client-3.png" />
-            <img src="https://gourmand.qodeinteractive.com/wp-content/uploads/2018/02/client-4.png" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuF1Y_g3Lfl_ySYzBPLU7hA050zohMpWlQ1A&usqp=CAU" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBH2NuL9W_4zj73DigkOESJ9w4bmPIShyQnQ&usqp=CAU" />
           </Marquee>
       </>
     );
