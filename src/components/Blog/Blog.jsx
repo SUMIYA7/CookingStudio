@@ -38,10 +38,10 @@ const Blog = () => {
           <div className="actual-receipt">
             <div>
               <h1>
-                Differences between uncontrolled and controlled components
+                Question-01: What is the differences between uncontrolled and controlled components?
               </h1>
               <p>
-                In React, the state of a component is used to manage the values
+                Answer : In React, the state of a component is used to manage the values
                 of its form elements, such as input, select, and textarea. There
                 are two ways to manage the state of form elements in React:
                 controlled components and uncontrolled components. Controlled
@@ -59,9 +59,9 @@ const Blog = () => {
               </p>
             </div>
             <div>
-              <h1>How to validate React props using PropTypes</h1>
+              <h1>Question-02: How to validate React props using PropTypes?</h1>
               <p>
-                PropTypes is a type-checking library for React that helps you
+                Answer : PropTypes is a type-checking library for React that helps you
                 ensure that the data passed to your components is of the correct
                 type. You can use PropTypes to validate the types of your props.
                 To use PropTypes, you need to import it from the prop-types
@@ -73,9 +73,9 @@ const Blog = () => {
               </p>
             </div>
             <div>
-              <h1>Difference between Node.js and Express.js</h1>
+              <h1>Question-03:What is the difference between Node.js and Express.js?</h1>
               <p>
-                Node.js is a runtime environment that allows you to run
+                Answer : Node.js is a runtime environment that allows you to run
                 JavaScript on the server-side. It's built on top of the V8
                 JavaScript engine used in the Chrome browser and provides a set
                 of APIs for interacting with the file system, network, and other
@@ -90,10 +90,10 @@ const Blog = () => {
             </div>
             <div>
               <h1>
-                What is a custom hook, and why will you create a custom hook
+                Question-04: What is a custom hook and why will you create a custom hook?
               </h1>
               <p>
-                Custom hooks are functions that allow you to reuse logic across
+                Answer : Custom hooks are functions that allow you to reuse logic across
                 multiple components in your React application. They follow a
                 naming convention of starting with the word "use" and can be
                 created to encapsulate any kind of logic that can be shared
@@ -105,7 +105,7 @@ const Blog = () => {
                 paste the code. For example, let's say you have a component that
                 needs to make an API call and store the response in its state.
                 You could create a custom hook called useApi that encapsulates
-                the API call and returns the data and loading state
+                the API call and returns the data and loading state.
               </p>
             </div>
           </div>

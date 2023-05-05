@@ -18,8 +18,8 @@ const ChefSection = () => {
     return (
       <Container className="mt-5 pt-5">
         <div className="text-center mt-5 mb-5">
-          <h1>THE TEAM</h1>
-          <h6>Experience & Commitment</h6>
+          <h1>Chef Section</h1>
+          <h6>Experience & Effort</h6>
         </div>
         {chefs.map((chef) => (
           <SingleChef 
